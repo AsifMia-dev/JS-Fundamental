@@ -1,0 +1,27 @@
+[33mcommit 5a1226b514025e54334e6d7a3d8889a7b421a38d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Asif mia <asifmia.dev26@gmail.com>
+Date:   Fri May 30 12:55:37 2025 +0600
+
+    Add furture practices
+
+[33mcommit 425572b56da574feb465f5bd3ef9f3387011fd67[m
+Author: Asif mia <asifmia.dev26@gmail.com>
+Date:   Wed May 28 00:19:34 2025 +0600
+
+    add practice JavaScript file
+
+[33mcommit bc73c68bc9bdd7a9b07127afa61a3311a84964aa[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Asif mia <asifmia.dev26@gmail.com>
+Date:   Sat May 24 10:51:37 2025 +0600
+
+    Add randomNumber.js file
+    
+    _ Thsi file generate random number between 1 to 6
+    
+    _ Using switch case track ludospin
+
+[33mcommit 0efd260c3bd629cf734be8a420d7d9d1f67851d0[m
+Author: Asif mia <asifmia.dev26@gmail.com>
+Date:   Sat May 24 09:58:32 2025 +0600
+
+    Add arrObject.js file

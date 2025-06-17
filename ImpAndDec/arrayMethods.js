@@ -51,6 +51,13 @@ const a = arr.filter( value => value!==undefined);
 console.log(a);
 
 
+let x = 10; 
+let y = 5;
+
+let bol = x > 10 ? x : y;
+
+console.log(bol);
+
 
 
 
